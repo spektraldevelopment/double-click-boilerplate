@@ -35,7 +35,11 @@ container.onclick = function() {
 For more information on Double Click:
 
 [Enabler](https://support.google.com/richmedia/answer/2922448?hl=en&ref_topic=2922400)
+
 [Exit Events](https://support.google.com/richmedia/answer/2922415?hl=en)
+
 [Custom Tracking](https://support.google.com/richmedia/answer/2672519?hl=en&ref_topic=2922400)
+
 [Counter](https://support.google.com/richmedia/answer/2672585?hl=en&ref_topic=2922400)
+
 [Timer](https://support.google.com/richmedia/answer/2672558?hl=en&ref_topic=2922400)
