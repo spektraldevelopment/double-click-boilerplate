@@ -1,0 +1,16 @@
+body {
+    background-color: #000;
+}
+
+* {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    width: 728px;
+    height: 90px;
+    overflow: hidden;
+    cursor: pointer;
+}
