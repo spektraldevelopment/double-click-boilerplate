@@ -21,7 +21,7 @@ grunt
 
 This will create an optimized version of your banner in an opted directory
 
-*Note: The template is set up to take advantage of Double Click dynamic exit events, you can replace this with a standard click tag if the exit url needs to be static:
+**Note:** The template is set up to take advantage of Double Click dynamic exit events, you can replace this with a standard click tag if the exit url needs to be static:
 
 ```js
 var clickTag = 'http://google.com';
@@ -31,3 +31,11 @@ container.onclick = function() {
     window.open(clickTag);
 }
 ```
+
+For more information on Double Click:
+
+[Enabler](https://support.google.com/richmedia/answer/2922448?hl=en&ref_topic=2922400)
+[Exit Events](https://support.google.com/richmedia/answer/2922415?hl=en)
+[Custom Tracking](https://support.google.com/richmedia/answer/2672519?hl=en&ref_topic=2922400
+[Counter](https://support.google.com/richmedia/answer/2672585?hl=en&ref_topic=2922400)
+[Timer](https://support.google.com/richmedia/answer/2672558?hl=en&ref_topic=2922400)
